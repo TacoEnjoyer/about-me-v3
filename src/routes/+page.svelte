@@ -10,7 +10,7 @@
 <div class="pt-10 md:px-16 text-center px-6 text-xl font-thin">
     <p>My name is Vradient (formerly known as Atstarcore).</p>
     <br>
-    <p>Sometimes i'll open VSCode to do some thing with HTML, CSS and a little bit JavaScript.</p>
+    <p>Sometimes I'll open VSCode to do some things with HTML, CSS, and a little bit of JavaScript.</p>
     <br>
     <p>I also play Geometry Dash, which is my favorite game.</p>
     <br>
